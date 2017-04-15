@@ -20,6 +20,14 @@
                  "name": {
                      "value": "Greeting"
                  }
+             },
+             {
+                 "url": "/hellojapan.html",
+                 "key": "hello-japan",
+                 "location": "system.top.navigation.bar",
+                 "name": {
+                     "value": "Ohayo"
+                 }
              }
          ]
      }
