@@ -1,6 +1,6 @@
 {
      "name": "Hello World",
-     "description": "Atlassian Connect add-on",
+     "description": "Atlassian Connect static add-on sample",
      "key": "io.github.thirota.example",
      "baseUrl": "https://thirota.github.io",
      "vendor": {
