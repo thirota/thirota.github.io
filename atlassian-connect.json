@@ -4,8 +4,8 @@
      "key": "io.github.thirota.example",
      "baseUrl": "https://thirota.github.io",
      "vendor": {
-         "name": "Example, Inc.",
-         "url": "http://example.com"
+         "name": "hirodev",
+         "url": "https://thirota.github.io"
      },
      "authentication": {
          "type": "none"
