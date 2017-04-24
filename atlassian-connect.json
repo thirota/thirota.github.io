@@ -22,6 +22,14 @@
                  }
              },
              {
+                 "url": "/helloeurope.html",
+                 "key": "hello-europe",
+                 "location": "system.top.navigation.bar",
+                 "name": {
+                     "value": "Amigo"
+                 }
+             },
+             {
                  "url": "/hellojapan.html",
                  "key": "hello-japan",
                  "location": "system.top.navigation.bar",
